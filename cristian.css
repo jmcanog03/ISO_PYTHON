@@ -1,0 +1,36 @@
+.imagen{
+    float: left;
+}
+
+
+#parrafo{
+    float: right;
+    max-width: 1000px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+
+#titulo{
+    max-width: 1000px;
+    float: right;
+    margin-right: 500px;
+    font-size: 20px;
+}
+
+
+#dulces{
+    padding-top: 20px ;
+    
+}
+
+
+
+#linea{
+    margin-top: 280px;
+}
+
+
+#fiestas{
+    padding-top: 600px;
+}
